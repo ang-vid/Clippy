@@ -1,0 +1,12 @@
+{
+  "name": "clipp",
+  "version": "1.0.0",
+  "description": "Desktop app to track the last five clipboard items and categorize them.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
